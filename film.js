@@ -185,9 +185,9 @@ const movieList = [
         name: 'Biệt đội giải ngân hà 3',
         category: 'Viễn tưỡng, Hành động, Siêu anh hùng',
         update: '2h30 phút- 1',
-        imgMin: '../src/galaxy-dung.webp',
-        imgMax: '../src/banner.webp',
-        video: '../src/Marvel Studios’ Guardians of the Galaxy Vol. 3 - Official Trailer.mp4'
+        imgMin: './assets/img/galaxy-dung.webp',
+        imgMax: './assets/img/banner.webp',
+        video: './assets/img/Marvel Studios’ Guardians of the Galaxy Vol. 3 - Official Trailer.mp4'
     },
     {
         id: '2',
