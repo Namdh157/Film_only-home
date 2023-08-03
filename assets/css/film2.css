@@ -1,0 +1,47 @@
+html {
+    background-color: #1a1a1a;;
+}
+* {
+    /* box-shadow: 0 0 10px var(--white-color); */
+}
+.content {
+    margin-top: 16vh;
+    margin-bottom: 100px;
+}
+.film {
+    width: 69%;
+    margin: 0 auto;
+}
+.title-movie {
+    color: var(--white-color);
+    height: 60px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding-left: 20px;
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+    background-color: var(--black-color);
+}
+.funcition {
+    margin: 30px 0;
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
+.like {
+    padding: 3px 35px;
+    border-radius: 5px;
+    background-color: blue;
+    color: var(--white-color);
+    margin-right: 20px;
+}
+.name-movie {
+    font-size: 3.3rem;
+    color: var(--golden-color);
+}
+.detail-movie {
+    font-size: 1.8rem;
+    color: var(--text-color);
+    line-height: 30px;
+    margin-top: 50px;
+}
